@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 1400 590">
-	<title>The titlepage for the Standard Ebooks edition of Against the Grain, by Karl Joris Huysmans. Translated by Groves &amp; Michaux</title>
+	<title>The titlepage for the Standard Ebooks edition of Against the Grain, by Joris-Karl Huysmans. Translated by Groves &amp; Michaux</title>
 	<style type="text/css">
 		text{
 			font-family: "League Spartan";
@@ -28,7 +28,7 @@
 		}
 	</style>
 	<text class="title" x="700" y="130">AGAINST THE GRAIN</text>
-	<text class="author" x="700" y="290">KARL JORIS HUYSMANS</text>
+	<text class="author" x="700" y="290">JORIS-KARL HUYSMANS</text>
 	<text class="contributor-descriptor" x="700" y="480">translated by</text>
 	<text class="contributor" x="700" y="540">GROVES &amp; MICHAUX</text>
 </svg>

@@ -44,9 +44,10 @@
 		<meta property="se:subject">Fiction</meta>
 		<dc:description id="description">Ailing, neurotic, and bored with the world, French nobleman Des Esseintes retreats to a secluded cottage in the countryside to create an artificial paradise for himself.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;Ailing, neurotic, and bored with the world, nobleman Des Esseintes retreats to a secluded cottage in the French countryside. Determined to shun all contact with other people, even his two servants must wear face-covering robes in his presence, he throws himself into an all-out celebration of the ultimate in artificial and unnatural pleasure. But while surrendering to literature, paintings, perfumes, jewels, spirits, flowers, and reminiscences of his depraved past brings him unsurpassable pleasure, his mental and physical health may not be able to keep up.&lt;/p&gt;
-			&lt;p&gt;When &lt;a href="https://standardebooks.org/ebooks/joris-karl-huysmans"&gt;Joris-Karl Huysmans&lt;/a&gt; published Against the Grain in 1884, his intention was to escape the creative restrictions that he felt Naturalism imposed on him. That the book would become a scandalous success, introduce decadence as a literary style, and inspire &lt;a href="https://standardebooks.org/ebooks/oscar-wilde"&gt;Oscar Wilde&lt;/a&gt; when he was writing &lt;a href="https://standardebooks.org/ebooks/oscar-wilde/the-picture-of-dorian-gray"&gt;The Picture of Dorian Gray&lt;/a&gt;, was far beyond any of his expectations.&lt;/p&gt;
-			&lt;p&gt;This Standard Ebooks edition is based on the first unabridged English edition, which was translated anonymously and published by Groves &amp; Marcaux in 1926. It reinstates passages that were considered too obscene for previous editions, and includes a preface Huysmans wrote detailing his intentions and motivations for the book, public reception when it came out, and how his opinion of the book has changed in the twenty years after its release.&lt;/p&gt;
+			&lt;p&gt;Ailing, neurotic, and bored with the world, nobleman Des Esseintes retreats to a secluded cottage in the French countryside. Determined to shun all contact with other people—even his live-in domestics must wear face-covering robes in his presence—he throws himself into an all-out celebration of the ultimate in artificial and unnatural pleasure. Surrendering to religious and profane literature, morbid paintings, overwhelming perfumes, expensive liquor, grotesque flowers, and reminiscences of his depraved past brings him unsurpassable pleasure, but his mental and physical condition may not be able to keep up.&lt;/p&gt;
+			&lt;p&gt;When &lt;a href="https://standardebooks.org/ebooks/oscar-wilde"&gt;Joris-Karl Huysmans&lt;/a&gt; wrote &lt;i&gt;Against the Grain&lt;/i&gt;, he did so to move away from the creative restrictions he felt the Naturalist school of literature imposed on him. According to him, “it limited itself to depicting common existence, and struggled, under the pretext of being true to life, to create characters who would be as close as possible to the average run of mankind.” Instead, he dedicated Naturalism’s attention to detail to just one extraordinary, perverse individual, Des Esseintes—fully expecting the resulting work to fail critically and commercially.&lt;/p&gt;
+			&lt;p&gt;That the novel would become a scandalous success, and would define Decadence as a movement and ideology, was far beyond his expectations. &lt;a href="https://standardebooks.org/ebooks/oscar-wilde"&gt;Oscar Wilde&lt;/a&gt; was a well-known admirer of the novel, and drew heavily from it to write &lt;a href="https://standardebooks.org/ebooks/oscar-wilde/the-picture-of-dorian-gray"&gt;&lt;i&gt;The Picture of Dorian Gray&lt;/i&gt;&lt;/a&gt;. During his trials in 1895, Wilde all but confirms that the “poisonous French novel” in his work refers to &lt;i&gt;Against the Grain&lt;/i&gt;.&lt;/p&gt;
+			&lt;p&gt;This Standard Ebooks edition is based on the first unabridged English edition, which was translated anonymously and published by Groves &amp;amp; Marcaux in 1926. It reinstates passages that were considered too obscene in previous editions, and includes a preface Huysmans wrote twenty years after the first publication of the book.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>http://www.huysmans.org/against/agnotice.htm</dc:source>
@@ -58,14 +59,14 @@
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/joris-karl-huysmans_against-the-grain_groves-michaux</meta>
 		<dc:creator id="author">Joris-Karl Huysmans</dc:creator>
 		<meta property="file-as" refines="#author">Huysmans, Joris-Karl</meta>
-		<meta property="se:name.person.full-name" refines="#author">Joris-Karl Huysmans</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Joris-Karl_Huysmans</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n79065248</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
+		<meta property="se:role" refines="#author" scheme="marc:relators">wpr</meta>
 		<dc:contributor id="translator">Groves &amp; Michaux</dc:contributor>
 		<meta property="file-as" refines="#translator">Groves &amp; Michaux</meta>
-		<meta property="se:name.person.full-name" refines="#translator">Groves &amp; Michaux</meta>
 		<meta property="role" refines="#translator" scheme="marc:relators">trl</meta>
+		<meta property="se:role" refines="#translator" scheme="marc:relators">ann</meta>
 		<dc:contributor id="artist">Odilon Redon</dc:contributor>
 		<meta property="file-as" refines="#artist">Redon, Odilon</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Odilon_Redon</meta>

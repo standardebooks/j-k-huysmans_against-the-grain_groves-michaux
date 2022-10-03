@@ -55,7 +55,7 @@
 		<meta property="se:production-notes">This ebook is based on the 1926 Groves &amp; Michaux edition, which contains 16 chapters and a Notice. While most other editions of the book label Notice as the first chapter and thus contain 17 numbered chapters, I decided to keep the Notice and place it in front of the halftitlepage as a prologue, like the original edition. </meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
-		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Against_the_Grain</meta>
+		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/%C3%80_rebours</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/joris-karl-huysmans_against-the-grain_groves-michaux</meta>
 		<dc:creator id="author">Joris-Karl Huysmans</dc:creator>
 		<meta property="file-as" refines="#author">Huysmans, Joris-Karl</meta>

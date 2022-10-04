@@ -34,6 +34,14 @@ span.elision{
 	margin-left: 3em;
 }
 
+[epub|type~="bridgehead"]{
+	display: inline-block;
+	font-style: italic;
+	max-width: 60%;
+	text-align: justify;
+	text-indent: 0;
+}
+
 #chapter-15 blockquote td:nth-child(1){
 	padding-right: 1em;
 }

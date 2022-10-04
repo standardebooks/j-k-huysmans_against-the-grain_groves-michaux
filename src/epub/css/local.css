@@ -10,6 +10,16 @@ abbr[epub|type~="se:era"]{
 	text-indent: 0;
 }
 
+[epub|type~="z3998:verse"] p > span{
+	display: block;
+	padding-left: 1em;
+	text-indent: -1em;
+}
+
+[epub|type~="z3998:verse"] p > span + br{
+	display: none;
+}
+
 [epub|type~="z3998:signature"]{
 	font-variant: small-caps;
 }
@@ -17,6 +27,11 @@ abbr[epub|type~="se:era"]{
 footer{
 	margin-top: 1em;
 	text-align: right;
+}
+
+span.elision{
+	margin: .5em;
+	margin-left: 3em;
 }
 
 #chapter-15 blockquote td:nth-child(2){

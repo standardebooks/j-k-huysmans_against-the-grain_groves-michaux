@@ -34,6 +34,10 @@ span.elision{
 	margin-left: 3em;
 }
 
+#chapter-15 blockquote td:nth-child(1){
+	padding-right: 1em;
+}
+
 #chapter-15 blockquote td:nth-child(2){
 	text-align: right;
 }

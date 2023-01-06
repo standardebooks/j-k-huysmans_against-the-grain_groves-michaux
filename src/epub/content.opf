@@ -30,7 +30,7 @@
 		<meta property="file-as" refines="#title">Against the Grain</meta>
 		<meta property="dcterms:alternative" refines="#title">Against Nature</meta>
 		<dc:subject id="subject-1">Art -- Philosophy</dc:subject>
-		<dc:subject id="subject-2"> Decadence (Literary movement)</dc:subject>
+		<dc:subject id="subject-2">Decadence (Literary movement)</dc:subject>
 		<dc:subject id="subject-3">French literature</dc:subject>
 		<dc:subject id="subject-4">Symbolism (Art movement)</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>

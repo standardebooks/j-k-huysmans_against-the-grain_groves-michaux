@@ -54,7 +54,7 @@
 		<dc:source>http://www.huysmans.org/against/agnotice.htm</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/102320950</dc:source>
 		<meta property="se:production-notes">This ebook is based on the 1926 Groves &amp; Michaux edition, which contains 16 chapters and a Notice. While most other editions of the book label Notice as the first chapter and thus contain 17 numbered chapters, I decided to keep the Notice and place it in front of the halftitlepage as a prologue, like the original edition. </meta>
-		<meta property="se:word-count">80495</meta>
+		<meta property="se:word-count">80179</meta>
 		<meta property="se:reading-ease.flesch">37.71</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/%C3%80_rebours</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/j-k-huysmans_against-the-grain_groves-michaux</meta>

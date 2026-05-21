@@ -39,7 +39,7 @@ span.elision{
 	margin-left: 3em;
 }
 
-[epub|type~="bridgehead"]{
+[epub|type~="se:bridgehead"]{
 	display: inline-block;
 	font-style: italic;
 	max-width: 60%;

@@ -1,0 +1,1 @@
+This ebook is based on the 1926 Groves &amp; Michaux edition, which contains 16 chapters and a Notice. While most other editions of the book label Notice as the first chapter and thus contain 17 numbered chapters, I decided to keep the Notice and place it in front of the halftitlepage as a prologue, like the original edition.

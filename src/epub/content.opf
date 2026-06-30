@@ -1,19 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
+<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0 rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/j-k-huysmans/against-the-grain/groves-michaux</dc:identifier>
 		<dc:date>2022-10-04T18:04:05Z</dc:date>
 		<meta property="dcterms:modified">2022-10-04T18:04:05Z</meta>
 		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
+		<meta property="rdf:type">http://schema.org/Book</meta>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
-		<meta property="se:url.homepage" refines="#publisher">https://standardebooks.org/</meta>
+		<link href="https://standardebooks.org/" refines="#publisher" rel="schema:url"/>
 		<meta property="role" refines="#publisher" scheme="marc:relators">bkd</meta>
 		<meta property="role" refines="#publisher" scheme="marc:relators">mdc</meta>
 		<meta property="role" refines="#publisher" scheme="marc:relators">pbl</meta>
 		<dc:contributor id="type-designer">The League of Moveable Type</dc:contributor>
 		<meta property="file-as" refines="#type-designer">League of Moveable Type, The</meta>
-		<meta property="se:url.homepage" refines="#type-designer">https://www.theleagueofmoveabletype.com/</meta>
+		<link href="https://www.theleagueofmoveabletype.com/" refines="#type-designer" rel="schema:url"/>
 		<meta property="role" refines="#type-designer" scheme="marc:relators">tyd</meta>
 		<meta id="conformance-statement" property="dcterms:conformsTo">EPUB Accessibility 1.1 - WCAG 2.2 Level AA</meta>
 		<meta property="a11y:certifiedBy" refines="#conformance-statement">Standard Ebooks</meta>
@@ -42,7 +43,7 @@
 		<meta property="term" refines="#subject-3">sh85051865</meta>
 		<meta property="authority" refines="#subject-4">LCSH</meta>
 		<meta property="term" refines="#subject-4">sh85131409</meta>
-		<meta property="se:subject">Fiction</meta>
+		<meta property="schema:genre">Fiction</meta>
 		<dc:description id="description">Ailing, neurotic, and bored with the world, a French nobleman retreats to a secluded cottage in the countryside to create an artificial paradise for himself.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;Ailing, neurotic, and bored with the world, the nobleman Des Esseintes retreats to a secluded cottage in the French countryside. Determined to shun all contact with other people—demanding that even his live-in domestics must wear face-covering robes in his presence—he throws himself into an all-out celebration of the ultimate in artificial and unnatural pleasure. Surrendering to religious and profane literature, morbid paintings, overwhelming perfumes, expensive liquor, grotesque flowers, and reminiscences of his depraved past brings him unsurpassable pleasure, but his mental and physical condition may not be able to keep up.&lt;/p&gt;
@@ -53,16 +54,17 @@
 		<dc:language>en-GB</dc:language>
 		<dc:source>http://www.huysmans.org/against/agnotice.htm</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/102320950</dc:source>
-		<meta property="se:production-notes">This ebook is based on the 1926 Groves &amp; Michaux edition, which contains 16 chapters and a Notice. While most other editions of the book label Notice as the first chapter and thus contain 17 numbered chapters, I decided to keep the Notice and place it in front of the halftitlepage as a prologue, like the original edition. </meta>
-		<meta property="se:word-count">80179</meta>
-		<meta property="se:reading-ease.flesch">37.71</meta>
-		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/%C3%80_rebours</meta>
-		<meta property="se:url.vcs.github">https://github.com/standardebooks/j-k-huysmans_against-the-grain_groves-michaux</meta>
+		<meta property="schema:wordCount">80179</meta>
+		<meta property="schema:educationalLevel">37.71</meta>
+		<link href="https://en.wikipedia.org/wiki/%C3%80_rebours" rel="schema:sameAs"/>
+		<meta property="schema:workExample" id="vcs-repository">schema:workExample</meta>
+		<meta property="rdf:type" refines="#vcs-repository">http://schema.org/SoftwareSourceCode</meta>
+		<link href="https://github.com/standardebooks/j-k-huysmans_against-the-grain_groves-michaux" refines="#vcs-repository" rel="schema:codeRepository"/>
 		<dc:creator id="author">J.-K. Huysmans</dc:creator>
 		<meta property="file-as" refines="#author">Huysmans, J.-K.</meta>
-		<meta property="se:name.person.full-name" refines="#author">Joris-Karl Huysmans</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Joris-Karl_Huysmans</meta>
-		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n79065248</meta>
+		<meta property="schema:alternateName" refines="#author">Joris-Karl Huysmans</meta>
+		<link href="https://en.wikipedia.org/wiki/Joris-Karl_Huysmans" refines="#author" rel="schema:sameAs"/>
+		<link href="https://id.loc.gov/authorities/names/n79065248.html" refines="#author" rel="schema:sameAs"/>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">wpr</meta>
 		<dc:contributor id="translator">Groves &amp; Michaux</dc:contributor>
@@ -71,16 +73,16 @@
 		<meta property="role" refines="#translator" scheme="marc:relators">trl</meta>
 		<dc:contributor id="artist">Odilon Redon</dc:contributor>
 		<meta property="file-as" refines="#artist">Redon, Odilon</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Odilon_Redon</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n50046104</meta>
+		<link href="https://en.wikipedia.org/wiki/Odilon_Redon" refines="#artist" rel="schema:sameAs"/>
+		<link href="https://id.loc.gov/authorities/names/n50046104.html" refines="#artist" rel="schema:sameAs"/>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Brendan King</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">King, Brendan</meta>
-		<meta property="se:url.homepage" refines="#transcriber-1">https://www.huysmans.org/</meta>
+		<link href="https://www.huysmans.org/" refines="#transcriber-1" rel="schema:url"/>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
 		<dc:contributor id="producer-1">Bob Reus</dc:contributor>
 		<meta property="file-as" refines="#producer-1">Reus, Bob</meta>
-		<meta property="se:url.homepage" refines="#producer-1">https://www.bobre.us/</meta>
+		<link href="https://www.bobre.us/" refines="#producer-1" rel="schema:url"/>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">blw</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">cov</meta>
@@ -89,7 +91,7 @@
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
 		<dc:contributor id="producer-2">Robin Whittleton</dc:contributor>
 		<meta property="file-as" refines="#producer-2">Whittleton, Robin</meta>
-		<meta property="se:url.homepage" refines="#producer-2">http://www.robinwhittleton.com/</meta>
+		<link href="http://www.robinwhittleton.com/" refines="#producer-2" rel="schema:url"/>
 		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>

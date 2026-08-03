@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0 rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
+<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/j-k-huysmans/against-the-grain/groves-michaux</dc:identifier>
 		<dc:date>2022-10-04T18:04:05Z</dc:date>
@@ -44,13 +44,13 @@
 		<meta property="authority" refines="#subject-4">LCSH</meta>
 		<meta property="term" refines="#subject-4">sh85131409</meta>
 		<meta property="schema:genre">Fiction</meta>
-		<dc:description id="description">Ailing, neurotic, and bored with the world, a French nobleman retreats to a secluded cottage in the countryside to create an artificial paradise for himself.</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description">
+		<dc:abstract>Ailing, neurotic, and bored with the world, a French nobleman retreats to a secluded cottage in the countryside to create an artificial paradise for himself.</dc:abstract>
+		<dc:description>
 			&lt;p&gt;Ailing, neurotic, and bored with the world, the nobleman Des Esseintes retreats to a secluded cottage in the French countryside. Determined to shun all contact with other people—demanding that even his live-in domestics must wear face-covering robes in his presence—he throws himself into an all-out celebration of the ultimate in artificial and unnatural pleasure. Surrendering to religious and profane literature, morbid paintings, overwhelming perfumes, expensive liquor, grotesque flowers, and reminiscences of his depraved past brings him unsurpassable pleasure, but his mental and physical condition may not be able to keep up.&lt;/p&gt;
 			&lt;p&gt;When &lt;a href="https://standardebooks.org/ebooks/j-k-huysmans"&gt;Huysmans&lt;/a&gt; wrote &lt;i&gt;Against the Grain&lt;/i&gt;, he did so to move away from the creative restrictions he felt the Naturalist school of literature imposed on him. According to him, “it limited itself to depicting common existence, and struggled, under the pretext of being true to life, to create characters who would be as close as possible to the average run of mankind.” Instead, he dedicated Naturalism’s attention to detail to just one extraordinary, perverse individual, Des Esseintes—fully expecting the resulting work to fail critically and commercially.&lt;/p&gt;
 			&lt;p&gt;That the novel would become a scandalous success, and would define Decadence as a movement and ideology, was far beyond his expectations. &lt;a href="https://standardebooks.org/ebooks/oscar-wilde"&gt;Oscar Wilde&lt;/a&gt; was a well-known admirer of the novel, and drew heavily from it to write &lt;a href="https://standardebooks.org/ebooks/oscar-wilde/the-picture-of-dorian-gray"&gt;&lt;i&gt;The Picture of Dorian Gray&lt;/i&gt;&lt;/a&gt;. During his trial in 1895, Wilde all but confirmed that the “poisonous French novel” in his work refers to &lt;i&gt;Against the Grain&lt;/i&gt;.&lt;/p&gt;
 			&lt;p&gt;This Standard Ebooks edition is based on the first unabridged English edition, which was translated anonymously and published by Groves &amp;amp; Michaux in 1926. It reinstates passages that were considered too obscene in previous editions, and includes a preface Huysmans wrote twenty years after the first publication of the book.&lt;/p&gt;
-		</meta>
+		</dc:description>
 		<dc:language>en-GB</dc:language>
 		<dc:source>http://www.huysmans.org/against/agnotice.htm</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/102320950</dc:source>
